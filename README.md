@@ -31,4 +31,5 @@ Here are a few ways to for me to stay focused on my growth :
 ******
 ## Contact
 
-Please feel free to contact me via [**email**](dunning.kris@gmail.com) if you are looking for a motivated, professional, growth minded junior developer. Thank you.
+Please feel free to contact me via <a href= "mailto: dunning.kris@gmail.com">**email**</a> if you are looking for a motivated, professional, growth 
+minded junior developer. Thank you.
