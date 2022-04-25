@@ -1,2 +1,2 @@
-# reading-notes
-notes from Code Fellows courses
+# Reading-notes
+Notes from Code Fellows courses.
