@@ -31,7 +31,7 @@ Here are a few ways to for me to stay focused on my growth :
 
 ## Other github pages
 
-[Read01-Learning Markdown](https://github.io/KrisDunning/reading-notes/Read01-Learning%20Markdown.html)
+[Read01-Learning Markdown](https://KrisDunning.github.io/reading-notes/Read01-Learning%20Markdown.html)
 
 
 ## Contact
