@@ -28,6 +28,11 @@ Here are a few ways to for me to stay focused on my growth :
 3. Use available resources. Classmates, teachers, friends, online documents and the library.
 
 ******
+
+## Other github pages
+[Read01-Learning Markdown](/Read01-Learning%20Markdown.md)
+
+
 ## Contact
 
 Please feel free to contact me via <a href= "mailto: dunning.kris@gmail.com">**email**</a> if you are looking for a motivated, professional, growth 
