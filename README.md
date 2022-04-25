@@ -1,7 +1,12 @@
 # Reading-notes
 
+<figure>
+    <img src="https://user-images.githubusercontent.com/87045563/165160299-f951a5df-37ea-48d6-90d0-92d2036feb6f.JPG "My headshot" width="300" height="300" 
+  alt= "Kris Dunning Headshot">
+</figure>                                                   
+
 Hello my name is Kris Dunning and I am an aspiring Web Developer based out of Seattle, WA. I am currently attending a [***Code Fellows***](https://codefellows.org "Code Fellows Home Page") bootcamp for full-stack web development. I attended North Seattle Community College and received two Associate of Science degrees in Electronics 
-Technology and Sustainable Power and Distribution. To see my current progress please feel free to check out my [github profile](github.com/KrisDunning "Kris Dunning's
+Technology and Sustainable Power and Distribution. To see my current progress please feel free to check out my [github profile](https://github.com/KrisDunning "Kris Dunning's
 github profile")<br>
 
 *******
@@ -23,4 +28,7 @@ Here are a few ways to for me to stay focused on my growth :
 2. Make a schedule so that you and your family can set appropriate expectations
 3. Use available resources. Classmates, teachers, friends, online documents and the library.
 
+******
+## Contact
 
+Please feel free to contact me via [**email**](dunning.kris@gmail.com) if you are looking for a motivated, professional, growth minded junior developer. Thank you.
