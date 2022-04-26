@@ -20,7 +20,7 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
     <th>Reading 02 The Coder's Computer</th>
    </tr>
    <tr>
-        <td><a href="https://KrisDunning.github.io/reading-notes/Read01-GrowthMindset.html">Growth Mindset</a>
+        <td><a href="https://KrisDunning.github.io/reading-notes/GrowthMindset.html">Growth Mindset</a>
         </td>
         <td>
         <a href="https://KrisDunning.github.io/reading-notes/Read02-Summary.html">Summary</a>
