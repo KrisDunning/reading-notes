@@ -13,23 +13,28 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
 ******
 
 ## Reading Notes Table Of Contents
+
 <table border="1">
    <tr>
     <th>Reading 01 Markdown</th>
     <th>Reading 02 The Coder's Computer</th>
    </tr>
    <tr>
-    <td><a href="https://KrisDunning.github.io/reading-notes/Read01-GrowthMindset.html">Growth Mindset</td>
-    <td>
-<a href="https://KrisDunning.github.io/reading-notes/Read02-Summary.html">Summary</td>
+        <td><a href="https://KrisDunning.github.io/reading-notes/Read01-GrowthMindset.html">Growth Mindset</a>
+        </td>
+        <td>
+        <a href="https://KrisDunning.github.io/reading-notes/Read02-Summary.html">Summary</a>
+        </td>
    </tr>
    <tr>
-    <td><a href="https://KrisDunning.github.io/reading-notes/Read01-Learning%20Markdown.html">Markdown Notes</td>
-    <td><a href="https://KrisDunning.github.io/reading-notes/Read02-TextEditors.html">Text Editor's</td>
+        <td><a href="https://KrisDunning.github.io/reading-notes/Read01-Learning%20Markdown.html">Markdown Notes</a>
+        </td>
+        <td><a href="https://KrisDunning.github.io/reading-notes/Read02-TextEditors.html">Text Editor's</a>
+        </td>
    </tr>
    <tr>
-    <td></td>
-    <td><a href="https://KrisDunning.github.io/reading-notes/Read02-TerminalNotes.html">Terminal Notes</td>
+        <td></td>
+        <td><a href="https://KrisDunning.github.io/reading-notes/Read02-TerminalNotes.html">Terminal Notes</a></td>
     </tr>
 </table>
 
