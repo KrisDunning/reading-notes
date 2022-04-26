@@ -94,3 +94,29 @@ Baby steps towards REGEX...
   
 ### Permissions
 
+Three types of permissions
+  - r - read
+  - w - write
+  - x - execute  
+  
+Three types of ownership
+  - owner - the single person responsible for ownership of the file
+  - group - every file belongs to a single group
+  - others - everyone else who is not owner or in the group
+  
+To view permissions we use the long view of list (ls -l *filename*)
+  Example: ls -l myfile.txt 
+  returns: -rwxr----x etcetcetcetcetcetc
+  The first character is filetype (- is file) (d is directory)
+  The next 3 are the owner permissions (r=read w=write x=execute)
+  The next 3 are the groups permissions (r=read -=no write permission -=no execute permission)
+  The last 3 are the others permissions (-=no read -=no write permissions x=execute permission)
+  
+To change permission we use *chmod* [permission][path]
+  - The permission options are "ugoa", or user-group-others-all
+  - Then add a plus(+) to include permission or a dash(-) to remove permission
+  - example: chmod a+rwe picture.png will give all users read, write and execute permissions
+  
+
+  
+  
