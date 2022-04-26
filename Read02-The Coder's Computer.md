@@ -3,8 +3,9 @@
 
 # The Coder's Computer  
 
-Here is a summary of what to look for in a text editor.
+## Text Editors
 
+Text editors are a program that can be used to createand edit text files. There are some that are keyboard only and some that allow use of mouse inputs. Some may be have more features but may not be suited for coding. Microsoft Word for example allows text editing and also images and fancy formatting. These are nice features but not ones so useful for coding. IDE's (integrated development environment) are the next step up from text editors. They allow the combination of text editing with a GUI (graphical user interface) along with tools to enhance the software engineers ability to produce code effectively. Things such as code highlighting and error handling just to name a few. I would suggest doing some research to find one to suit your needs but feel free to start with some common ones such as Notepadd++, Atom or VSCode.
 
 ## Terminal Cheatsheet  
 
@@ -82,4 +83,14 @@ Use 'q' to quit manual pages
   - u - Undo the last action (you may keep pressing u to keep undoing)
   - U (Note: capital) - Undo all changes to the current line
 
+### Wildcards
+
+Baby steps towards REGEX...
+
+- asterisk(*) - asterisk is used to include all. (ex. ls b* will list all content that starts with a b)
+- question mark(?) - question mark is used to represent a single character (ex. ls ?b* will return all files that have the 2nd letter of b)
+- range ([]) - includes a range of items. (ex. ls *[0-9]* will return files that include any number.
+- caret(^) - inverts the range to exclude items (ex. ls *^[0-9]* will excludes any files that include a number.
   
+### Permissions
+
