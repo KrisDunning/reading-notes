@@ -87,8 +87,6 @@ Please feel free to checkout my [github page](github.com/KrisDunning "A portfoli
 Use exclamation point(!) for image, then square brackets([]) for alt text then enclose image link with parenthesis( () ).  
 > ![A user image.](/user/images/image.jpg)
 
+************
 
-
-
-
-
+[Return to main page](https://KrisDunning.github.io/reading-notes/)
