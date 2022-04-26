@@ -1,8 +1,7 @@
-# Reading-notes
+# Welcome to my Github Page 
 
-<img src="https://user-images.githubusercontent.com/87045563/165160299-f951a5df-37ea-48d6-90d0-92d2036feb6f.JPG" width="300" height="300" 
- alt= "Kris Dunning Headshot">
-                                                  
+<img src="https://user-images.githubusercontent.com/87045563/165160299-f951a5df-37ea-48d6-90d0-92d2036feb6f.JPG" width="300" height="300"
+alt= "Kris Dunning Headshot">  
 
 Hello my name is Kris Dunning and I am an aspiring Web Developer based out of Seattle, WA. I am currently attending a [***Code Fellows***](https://codefellows.org "Code Fellows Home Page") bootcamp for full-stack web development. I attended North Seattle Community College and received two Associate of Science degrees in Electronics 
 Technology and Sustainable Power and Distribution. To see my current progress please feel free to check out my [github profile](https://github.com/KrisDunning "Kris Dunning's
