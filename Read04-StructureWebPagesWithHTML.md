@@ -52,12 +52,13 @@
 In programmin Semantics refers to the *meaning* of the code. So an h1 *means* that it is a top level heading. You could style a single sentence `<p>` to *look* like a h1 but it wouldnt have the same semantics.
 
 There are roughly 100 semantic elements available. Some of those are:
-    - `<article>`
-    - `<aside>`
-    - `<figure>`
-    - `<main>`
-    - `<nav>`
-    - `<footer>`
+
+- `<article>`
+- `<aside>`
+- `<figure>`
+- `<main>`
+- `<nav>`
+- `<footer>`
 
 *****
 
