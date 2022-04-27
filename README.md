@@ -16,8 +16,10 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
 
 <table border="1">
    <tr>
-    <th>Reading 01 Markdown</th>
-    <th>Reading 02 The Coder's Computer</th>
+    <th>Markdown</th>
+    <th>The Coder's Computer</th>
+    <th> Revisions and the Cloud</th>
+    <th> Web Pages with HTML</th>
    </tr>
    <tr>
         <td><a href="https://KrisDunning.github.io/reading-notes/GrowthMindset.html">Growth Mindset</a>
@@ -25,16 +27,27 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
         <td>
         <a href="https://KrisDunning.github.io/reading-notes/Read02-Summary.html">Summary</a>
         </td>
+        <td>
+          <a href="https://krisdunning.github.io/reading-notes/Read03-RevisionsAndTheCloud.html">Revisions and the Cloud</a>
+        </td>
+        <td>
+          <a href="https://krisdunning.github.io/reading-notes/Read04-StructureWebPagesWithHTML.html">Web Pages with HTML</a>
+        </td>
    </tr>
    <tr>
         <td><a href="https://KrisDunning.github.io/reading-notes/Read01-Learning%20Markdown.html">Markdown Notes</a>
         </td>
         <td><a href="https://KrisDunning.github.io/reading-notes/Read02-TextEditors.html">Text Editor's</a>
         </td>
+        <td></td>
+        <td></td>
    </tr>
    <tr>
-        <td></td>
-        <td><a href="https://KrisDunning.github.io/reading-notes/Read02-TerminalNotes.html">Terminal Notes</a></td>
+          <td>
+          </td>
+          <td><a href="https://KrisDunning.github.io/reading-notes/Read02-TerminalNotes.html">Terminal Notes</a></td>
+          <td></td>
+          <td></td>
     </tr>
 </table>
 
