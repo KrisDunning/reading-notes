@@ -1,4 +1,8 @@
+[Return to main page](https://KrisDunning.github.io/reading-notes/)
+
 # Growth Mindset
+
+*****
 
 The growth mindset to me is about making progress and not focusing on being perfect. Incremental growth adds up over time and like many other things
 it takes focus, determination and hard work. I wouldn't go out and run a marathon without any training and I'm *probably* not gonna create the next Door Dash app
@@ -17,4 +21,4 @@ Here are a few ways to for me to stay focused on my growth :
 
 ******
 
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+

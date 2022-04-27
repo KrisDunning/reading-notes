@@ -2,6 +2,8 @@
 
 # Dynamic Web Pages with JavaScript
 
+*****
+
 JavaScript is a lightweight, interpreted language with first-class functions(func can be passed as a variable). JS is well known as a web browser language but it is also used for many non browser applications such as Node.js, Adobe Acrobat and many others. 
 
 The standards for JS are the ECMAScript Language specifications (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). 

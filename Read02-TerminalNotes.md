@@ -2,6 +2,8 @@
 
 # Terminal Notes Cheatsheet  
 
+*****
+
 A shell is a wrapper for the terminal, with a common shell being *Bash*. We are currently using ohmyzsh as our shell.  
 **PWD** - print working directory - displays your current directory.  
 **ls** - list - lists items within current directory. 

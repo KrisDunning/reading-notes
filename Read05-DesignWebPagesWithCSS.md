@@ -1,5 +1,8 @@
 [Return to main page](https://KrisDunning.github.io/reading-notes/)
+
 # Design Web Pages With CSS Notes
+
+*****
 
 CSS stand for cascading style sheets and allows the developer control over the style and layout of their sites. Css is a rule based language and you define the rules by specifying group of styles that apply to elements on the page. 
 

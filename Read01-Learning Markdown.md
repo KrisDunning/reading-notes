@@ -2,6 +2,8 @@
 
 # Notes for Markdown Format
 
+*****
+
 ## Headings
 
 Headings are from H1-H6 and denoted by a hashtag(#), up to 6 hashtags can be used. 
@@ -33,13 +35,15 @@ Use right arrow (\>) for blockquote. Leave line break before and after. Use 2 ar
 
 ### Ordered
 
-Use numbers followed by a period(.).   
+Use numbers followed by a period(.).  
+
 1. Object A
 2. Object B
 
 ### Unordered
 
 Use dash(-) character.  
+
 - List item 1
 - List item 2
 
@@ -80,7 +84,7 @@ To link a web address or email, enclose in arros bracket's(<>).
 Replace any spaces in a link URL with `%20`
 
 Please feel free to checkout my [github page](https://KrisDunning.github.io/reading-notes/ "A portfolio page in progress.").  
-<https://madeup.url.com> or <email@madeup.url.com>  
+[https://madeup.url.com]("#") or <email@madeup.url.com>  
 
 ## Images
 

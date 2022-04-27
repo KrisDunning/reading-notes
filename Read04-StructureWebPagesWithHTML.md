@@ -1,5 +1,8 @@
 [Return to main page](https://KrisDunning.github.io/reading-notes/)
+
 # Structure Webpages with HTML
+
+*****
 
 ## Wireframe Notes
 
@@ -35,12 +38,12 @@
 - heading- `<h1>` - `<h6>`  only up to H6
 - comments- `<!--` inside is commented out`-->`
 - parapgraphs- `<p>` `</p>` are the paragraph tags  
-- Lists- Lists in HTML can be ordered or unordered  
-    - Ordered- `<ol>` `</ol>` numbered 1,2,3,4,5
-    - Unordered- `<ul>` `</ul>` no numbers  
+- Lists- Lists in HTML can be ordered or unordered 
+  - Ordered- `<ol>` `</ol>` numbered 1,2,3,4,5
+  - Unordered- `<ul>` `</ul>` no numbers  
 - List items- each item in a list uses its own tags `<li>``</li>`  
--Links- Links use an anchor tag and an href attribute
-    - `<a href="https://website.web">Click here</a>`
+- Links- Links use an anchor tag and an href attribute
+  - `<a href="https://website.web">Click here</a>`
 
 *****
 
@@ -64,3 +67,7 @@ For more information please use the following sources:
     -   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">MDN HTML Basics</a>  
     -   <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer">MDN Front-End Developer Learning Path</a>  
     -   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">MDN HTML Elements Refernce</a>  
+
+*****
+
+[Return to main page](https://KrisDunning.github.io/reading-notes/)
