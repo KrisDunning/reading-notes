@@ -79,13 +79,14 @@ Enclose link text in square bracket's([]) and URL's in parenthesis( () ).
 To link a web address or email, enclose in arros bracket's(<>).  
 Replace any spaces in a link URL with `%20`
 
-Please feel free to checkout my [github page](github.com/KrisDunning "A portfolio page in progress.").  
+Please feel free to checkout my [github page](https://KrisDunning.github.io/reading-notes/ "A portfolio page in progress.").  
 <https://madeup.url.com> or <email@madeup.url.com>  
 
 ## Images
 
 Use exclamation point(!) for image, then square brackets([]) for alt text then enclose image link with parenthesis( () ).  
-> ![A user image.](/user/images/image.jpg)
+> (<img src="https://user-images.githubusercontent.com/87045563/165160299-f951a5df-37ea-48d6-90d0-92d2036feb6f.JPG" width="100" height="100" border="2" 
+alt= "Kris Dunning Headshot"> `![text](image.jpg)`
 
 ************
 
