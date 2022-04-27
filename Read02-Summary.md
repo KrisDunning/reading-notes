@@ -1,4 +1,3 @@
-# The Coder's Computer Summary
 [Return to main page](https://KrisDunning.github.io/reading-notes/)
 # Coder's Computer Summary
 
