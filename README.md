@@ -52,12 +52,16 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
     <th>
      Web Pages with CSS
     </th>
-    <th></th>
+    <th>\Web Pages with JavaScript</th>
     <th></th>
     <th></th>
     <tr>
-          <td><a href="https://KrisDunning.github.io/reading-notes/Read05-DesignWebPagesWithCSS.html">CSS Notes</a></td>
-          <td></td>
+          <td>
+            <a href="https://KrisDunning.github.io/reading-notes/Read05-DesignWebPagesWithCSS.html">CSS Notes</a>
+          </td>
+          <td>
+            <a href="https://KrisDunning.github.io/reading-notes/Read06-WebPagesWithDynamicJS.html">JavaScript Notes</a>
+          </td>
           <td></td>
           <td></td>
     </tr>
