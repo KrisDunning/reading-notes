@@ -52,7 +52,7 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
     <th>
      Web Pages with CSS
     </th>
-    <th>\Web Pages with JavaScript</th>
+    <th>Web Pages with JavaScript</th>
     <th></th>
     <th></th>
     <tr>
