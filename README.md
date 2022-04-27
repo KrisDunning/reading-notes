@@ -56,7 +56,7 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
     <th></th>
     <th></th>
     <tr>
-          <td><a href="https://KrisDunning.github.io/reading-notes/Read05-DesignWebPagesWithCSS.html">CSS Notes</td>
+          <td><a href="https://KrisDunning.github.io/reading-notes/Read05-DesignWebPagesWithCSS.html">CSS Notes</a></td>
           <td></td>
           <td></td>
           <td></td>
