@@ -54,7 +54,7 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
     </th>
     <th>Web Pages with JavaScript</th>
     <th>Programming With JavaScript</th>
-    <th></th>
+    <th>Operators and Loops</th>
     <tr>
           <td>
             <a href="https://KrisDunning.github.io/reading-notes/Read05-DesignWebPagesWithCSS.html">CSS Notes</a>
@@ -63,7 +63,7 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
             <a href="https://KrisDunning.github.io/reading-notes/Read06-WebPagesWithDynamicJS.html">JavaScript Notes</a>
           </td>
           <td><a href="https://KrisDunning.github.io/reading-notes/Read07-ProgrammingWithJS.html">JavaScript Functions</a></td>
-          <td></td>
+          <td><a href="https://KrisDunning.github.io/reading-notes/Read08-OperatorsAndLoops.html">Operators and Loops</a></td>
     </tr>
 </table>
 
