@@ -15,8 +15,8 @@ Technology and Sustainable Power and Distribution. To see my current progress pl
 ## Projects  
 
 <Div>  
-  <button onClick="https://krisdunning.github.io/Code102Notes">Course 102 Notes Page</button>  
-  <button onClick="https://krisdunning.github.io/201/README">Course 201 Notes Page</button>  
+  <button onClick="window.location.href='https://krisdunning.github.io/Code102Notes';">Course 102 Notes Page</button>  
+  <button onClick="window.location.href='https://krisdunning.github.io/201/README';">Course 201 Notes Page</button>  
 </Div>
 
 ******
