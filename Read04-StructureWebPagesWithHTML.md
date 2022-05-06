@@ -1,4 +1,4 @@
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)
 
 # Structure Webpages with HTML
 
@@ -23,16 +23,16 @@
 - Attributes- Contain extra info about the elements that wont show in the content
 - Empty Element- empty elements like the `<img>` tag dont wrap content, so no closing tag
 - example of basic HTML page layout  
-  - `<!DOCTYPE html>`  
-        `<html>`  
-        `<head>`  
-        `<meta charset="utf-8">`  
-        `<title>Page Title</title>`  
-        `</head>`  
-        `<body>`  
-        `<img src="image.jpg" alt="image">`  
-        `</body>`
-        `</html>`  
+  ><!DOCTYPE html>
+        <html>  
+        <head>
+        <meta charset="utf-8">
+        <title>Page Title</title>
+        </head>
+        <body>  
+        <img src="image.jpg" alt="image">
+        </body>
+        </html>  
 
 - image links- see above example
 - heading- `<h1>` - `<h6>`  only up to H6
@@ -71,4 +71,4 @@ For more information please use the following sources:
 
 *****
 
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)

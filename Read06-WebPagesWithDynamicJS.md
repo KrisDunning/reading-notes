@@ -1,4 +1,4 @@
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)
 
 # Dynamic Web Pages with JavaScript
 
@@ -30,5 +30,3 @@ The underscore ( `_` ) is often used before an identifier to indicate a private 
 For more information please visit the [MDN JS page](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 *****
-
-[Return to main page](https://KrisDunning.github.io/reading-notes/)

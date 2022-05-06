@@ -1,4 +1,4 @@
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)
 
 # Notes for Markdown Format
 
@@ -94,4 +94,4 @@ alt= "Kris Dunning Headshot"> `![text](image.jpg)`
 
 ************
 
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)  

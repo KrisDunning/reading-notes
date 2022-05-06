@@ -1,3 +1,5 @@
+[Return to main page](https://KrisDunning.github.io/reading-notes/)
+
 # Code 102 Notes
 
 *****

@@ -1,4 +1,4 @@
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)
 
 # Terminal Notes Cheatsheet  
 
@@ -8,7 +8,7 @@ A shell is a wrapper for the terminal, with a common shell being *Bash*. We are 
 **PWD** - print working directory - displays your current directory.  
 **ls** - list - lists items within current directory. 
 
-### File Paths
+## File Paths
 
 - Absolute - /home/user/documents  
 - Relative - /documents  
@@ -16,7 +16,7 @@ A shell is a wrapper for the terminal, with a common shell being *Bash*. We are 
 - dot(.) - reference to current directory  
 - double dot(..) - reference to parent directory  
 
-### Navigation
+## Navigation
 
 - cd - change directory (use tab to auto complete a partial destination name)
 - file - use file\[filename] to determine the file type/extension
@@ -24,13 +24,13 @@ A shell is a wrapper for the terminal, with a common shell being *Bash*. We are 
 - spaces in names - use escape character\[\\] before the space or put name in single quote \['file name']
 - hidden files/folders - If name starts with a dot(.) then it is hidden. to find hidden use (ls -a) command
 
-### Manual Pages
+## Manual Pages
 
 Use the command "man" plus the command your are inquiring about. (ex. man ls)  
 Use keyword search with (man -k *keyword*)  
 Use 'q' to quit manual pages  
 
-### File Manipulation
+## File Manipulation
 
 - mkdir - make a directory(folder) at current directory
 - mkdir -p - makes parent directory as needed (ex. mkdir -p folder1/folder2/folder3) would make folder1 and folder 2 if needed before making folder 3
@@ -44,7 +44,7 @@ Use 'q' to quit manual pages
 - rm *filename* - removes a file (deleted)
 - rmdir -r - removes directory and its contents. Use caution.
 
-### Vi text editor
+## Vi text editor
 
 - vi *file* - opens the file for text editing directly in terminal
 - insert/edit - press i when in vi to insert content into the open file. press esc key to leave insert mode and enter edit mode (move,copy,save,replace, etc)
@@ -78,7 +78,7 @@ Use 'q' to quit manual pages
   - u - Undo the last action (you may keep pressing u to keep undoing)
   - U (Note: capital) - Undo all changes to the current line
 
-### Wildcards
+## Wildcards
 
 Baby steps towards REGEX...
 
@@ -87,17 +87,19 @@ Baby steps towards REGEX...
 - range ([]) - includes a range of items. (ex. ls *[0-9]* will return files that include any number.
 - caret(^) - inverts the range to exclude items (ex. ls *^[0-9]* will excludes any files that include a number.
   
-### Permissions
+## Permissions
 
 Three types of permissions
-  - r - read
-  - w - write
-  - x - execute  
+
+- r - read
+- w - write
+- x - execute  
   
 Three types of ownership
-  - owner - the single person responsible for ownership of the file
-  - group - every file belongs to a single group
-  - others - everyone else who is not owner or in the group
+
+- owner - the single person responsible for ownership of the file
+- group - every file belongs to a single group
+- others - everyone else who is not owner or in the group
   
 To view permissions we use the long view of list (ls -l *filename*)
   Example: ls -l myfile.txt 
@@ -108,10 +110,11 @@ To view permissions we use the long view of list (ls -l *filename*)
   The last 3 are the others permissions (-=no read -=no write permissions x=execute permission)
   
 To change permission we use *chmod* [permission][path]
-  - The permission options are "ugoa", or user-group-others-all
-  - Then add a plus(+) to include permission or a dash(-) to remove permission
-  - example: chmod a+rwe picture.png will give all users read, write and execute permissions
 
-  *********
+- The permission options are "ugoa", or user-group-others-all
+- Then add a plus(+) to include permission or a dash(-) to remove permission
+- example: chmod a+rwe picture.png will give all users read, write and execute permissions
+
+*****
   
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)  

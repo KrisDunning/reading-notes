@@ -1,4 +1,4 @@
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)
 
 # Growth Mindset
 
@@ -19,6 +19,4 @@ Here are a few ways to for me to stay focused on my growth :
 2. Make a schedule so that you and your family can set appropriate expectations
 3. Use available resources. Classmates, teachers, friends, online documents and the library.
 
-******
-
-
+*****

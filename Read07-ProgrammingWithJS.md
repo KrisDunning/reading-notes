@@ -1,4 +1,4 @@
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)
 
 # Programming With JavaScript
 
@@ -29,4 +29,5 @@ Functions can `return` a value but are not required to. In fact you can even use
 Any variables declared inside a `function()` are considered to be locally scoped to the function. That means they only exist inside the `function()` curly braces ( `{ }` ).  
 
 *****
-[Return to main page](https://KrisDunning.github.io/reading-notes/)
+
+[Return to Code 102 Notes Page](https://krisdunning.github.io/reading-notes/Code102Notes.html)
